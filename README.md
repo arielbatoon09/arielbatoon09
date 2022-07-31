@@ -5,7 +5,8 @@
 
 My name is Ariel Batoon a 21-year-old, an aspirant Full-stack developer from <strong>Cebu, Philippines.</strong>
 <br><strong>Student | Freelancer</strong>
-A Freelancer who is helping different sizes of business or organization by providing quality solution. In addition, a third-year college student studying BS in Information Technology. 
+<br>A Freelancer who is helping different sizes of business or organization by providing quality solution. 
+<br>In addition, a third-year college student studying BS in Information Technology. 
 
 I specialize in creating websites for small to medium and large size businesses. I am here to help you make your brand store professional with the latest web design and UI techniques, to bring your business at the top of the industry.
 
