@@ -3,7 +3,7 @@
 <!--
 **arielbatoon09/arielbatoon09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div>
-  I'm <bold>Ariel Batoon</bold>, a Software Engineer based in <bold>Cebu, Philippines</bold>
+  I'm <strong>Ariel Batoon</strong>, a Software Engineer based in <strong>Cebu, Philippines</strong>
 </div>
 My name is Ariel Batoon a 22-year-old, a Software Engineer from <strong>Cebu, Philippines.</strong>
 <br>I am a Web Developer at GrowthOps.
